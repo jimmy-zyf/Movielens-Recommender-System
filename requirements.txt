@@ -1,0 +1,11 @@
+# Since we used Google Colab for coding, all packages below were installed with pip
+# Lanuage - Python
+# Packages
+numpy
+matplotlib
+scipy
+scikit_learn
+pandas
+pyspark
+wordcloud
+tensorflow
